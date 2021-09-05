@@ -310,6 +310,7 @@
     .title-list-mobile{
         font-size: 15px;
         margin-bottom: 1%;
+        text-align: left;
     }
     .li-mobile{
         list-style: start;
